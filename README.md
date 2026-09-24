@@ -26,7 +26,7 @@ month_str_() prints the month name eg march
 ## dmy_()
 
 dmy_() prints the date in dd:mm:yyyy format.  type what ever separator you want in the parenthesise
-eg dmy_(':') will display dd:mm:yyyy and dmy_('/') will display dd/mm/yyyy  just remember if you want \ you need to type \\
+eg dmy_(':') will display dd:mm:yyyy and dmy_('/') will display dd/mm/yyyy  just remember if you want \ you need to type double forward slashes
 
 ## mdy_()
 
